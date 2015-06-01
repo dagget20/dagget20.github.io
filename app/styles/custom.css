@@ -1,0 +1,39 @@
+body {
+	background: url('../images/tripea_bg_1.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+ 	background-size: cover;
+}
+
+footer{
+	background-color: #000;
+	color: #6b6b6d;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 15px;
+	position: absolute;
+	bottom: 0;
+	width: 100%
+}
+
+nav ul{
+	margin
+}
+
+.inner-cover{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.footer_content{
+	margin: 0 auto;
+}
+
+.navbar-default {
+	background-color: transparent;
+}
+
+.logo{
+	margin-left: 35px;
+}
